@@ -1,3 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
+  <pyqgis_plugin name="Kopier Attribute na Laag" version ="0.1">
+    <description>copies attributes from one column to another layer</description>
+    <homepage>github.com/rhi1342/rhir.github.io</homepage>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <file_name>kopie_attribute.zip</file_name>
+    <download_url>rhi1342.github.io/plugins/kopie_attribute.zip</download_url>
+  </pyqgis_plugin>
 </plugins>
