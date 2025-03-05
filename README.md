@@ -1,1 +1,1 @@
-Testing QGIS hosted repo
+Testing hosting qgis plugin repo
